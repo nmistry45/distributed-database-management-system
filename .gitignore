@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+DatabaseLogs/
+/datastore/
+/datamodel
+/sql_dump/
+target/
